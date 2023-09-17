@@ -18,7 +18,7 @@ This project is a fun and educational Word Scramble game that provides you with 
 
 ## Live Website
 
-Play the game live at [jumble-safari.netlify.app](jumble-safari.netlify.app).
+Play the game live at [jumble-safari.netlify.app](https://jumble-safari.netlify.app/).
 
 
 ## Features
